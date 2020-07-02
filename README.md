@@ -7,6 +7,8 @@ A list of scripts and programs that can fetch information and print it to `stdou
 - For use in notifications
 - For use in status bars
 
+Please open an issue or send a pull request to add to the list.
+
 # Collections
 
 - [candies](https://github.com/domsson/candies) C programs made with status bars in mind; most of these have the option to be kept running
@@ -76,3 +78,18 @@ A list of scripts and programs that can fetch information and print it to `stdou
   - [xkb\_layout](https://github.com/vivien/i3blocks-contrib/tree/master/xkb_layout) keyboard layout
 - [polybar-scripts](https://github.com/polybar/polybar-scripts) Shell and Python scripts; written with polybar in mind
   - todo
+- [slstatus](https://github.com/drkhsh/slstatus) status monitor, written in C; with status bars in mind; individual components could be extracted
+  - todo
+
+## Invidiual projects
+
+- [xtmon](https://github.com/vimist/xtmon) X window title monitoring (C)
+- [pavolmon](https://github.com/everard/pavolmon) PulseAudio volume monitoring (C)
+- [xkblayout-state](https://github.com/nonpop/xkblayout-state) XKB keyboard layout (C++)
+- [light](https://github.com/haikarainen/light) get and set backlights (C)
+- [brightnessctl](https://github.com/Hummer12007/brightnessctl) get and set device brightness (C)
+- [ansiweather](https://github.com/fcambus/ansiweather) Shell script for weather conditions
+
+## Services
+
+See [awesome-console-services](https://github.com/chubin/awesome-console-services)

@@ -128,6 +128,15 @@ These are projects that contain a multitude of fetch scripts / programs. Note th
   - [notification-mattermost](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/notification-mattermost) unread Mattermost messages and mentions
   - [notification-reddit](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/notification-reddit) shows if there are unread mails in your reddit inbox
   - [notification-spacex](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/notification-spacex) shows when the next launch is planned
+  - [openweathermap-detailed](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/openweathermap-detailed) weather information
+  - [openweathermap-forecast](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/openweathermap-forecast) weather forecast
+  - [openweathermap-fullfeatured](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/openweathermap-fullfeatured) a lot of weather information
+  - [openweathermap-simple](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/openweathermap-simple) some weather information
+  - [player-cmus](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/player-cmus) information about the current track (artist, title, position, duration)
+  - [player-moc](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/player-moc) current song
+  - [player-mpris-simple](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/player-mpris-simple) current track
+  - [player-mpris-tail](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/player-mpris-tail) current track and the play-pause status
+  - [player-mpv-tail](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/player-mpv-tail) current music track or movie title from mpv
   - ... and many more (todo)
 
 ## Invidiual projects

@@ -1,4 +1,4 @@
-# awesome-fetch
+# fetch-all-the-things 
 
 A list of scripts and programs that can fetch information and print it to `stdout`. Possible use cases for such utilities:
 

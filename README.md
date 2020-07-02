@@ -94,6 +94,18 @@ These are projects that contain a multitude of fetch scripts / programs.
   - [info-dualshock4](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-dualshock4) battery level of a DualShock 4 Controller
   - [info-ethermine](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-ethermine) current hashrate (in MH/s) for your ethermine account
   - [info-eyestrain](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-eyestrain) eyestrain break indicator according to 20-20-20 rule
+  - [info-gitlab-pipelines](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-gitlab-pipelines) number of succeeded, running and failed gitlab-pipelines triggered by a user
+  - [info-hackspeed](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-hackspeed) typing speed
+  - [info-hexdate](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-hexdate) current date in hex format
+  - [info-hlwm-workspaces](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-hlwm-workspaces) herbstluftwm workspaces
+  - [info-kernel](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-kernel) kernel version
+  - [info-pingrtt](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-pingrtt) ping result
+  - [info-projecthamster](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-projecthamster) Hamster Time Tracker information
+  - [info-redshift-temp](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-redshift-temp) current color temperature
+  - [info-softwarecounter](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-softwarecounter) number of specified running software including GUIs and processes
+  - [info-ssh-sessions](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-ssh-sessions) count of current ssh sessions as well as the public IP address of the fist session
+  - [info-taskspooler](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-taskspooler) number of queues/runtimes for one or more task spooler servers
+  - [info-tmux-sessions](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-tmux-sessions) tmux sessions
   - ... and many more (todo)
 
 ## Invidiual projects

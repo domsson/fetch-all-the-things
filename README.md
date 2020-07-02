@@ -96,7 +96,7 @@ These are projects that contain a multitude of fetch scripts / programs.
 
 ## Invidiual projects
 
-These are project that contain only one fetch script or program, focusing on a particular piece of information.
+These are projects that contain only one fetch script or program, focusing on a particular piece of information.
 
 - [xtmon](https://github.com/vimist/xtmon) X window title monitoring (C)
 - [pavolmon](https://github.com/everard/pavolmon) PulseAudio volume monitoring (C)

@@ -11,6 +11,8 @@ Please open an issue or send a pull request to add to the list.
 
 # Collections
 
+These are projects that contain a multitude of fetch scripts / programs.
+
 - [candies](https://github.com/domsson/candies) C programs made with status bars in mind; most of these have the option to be kept running
   - [cpu-proc](https://github.com/domsson/candies/tree/master/cpu-proc) CPU usage in %
   - [datetime](https://github.com/domsson/candies/tree/master/datetime) date and time
@@ -77,11 +79,24 @@ Please open an issue or send a pull request to add to the list.
   - [wlan-dbm](https://github.com/vivien/i3blocks-contrib/tree/master/wlan-dbm) wifi interface link quality in dBm or percent
   - [xkb\_layout](https://github.com/vivien/i3blocks-contrib/tree/master/xkb_layout) keyboard layout
 - [polybar-scripts](https://github.com/polybar/polybar-scripts) Shell and Python scripts; written with polybar in mind
-  - todo
-- [slstatus](https://github.com/drkhsh/slstatus) status monitor, written in C; with status bars in mind; individual components could be extracted
-  - todo
+  - [battery-combined-shell](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/battery-combined-shell) battery status
+  - [battery-combined-tlp](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/battery-combined-tlp) battery status via TLP
+  - [battery-combined-udev](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/battery-combined-udev) battery status via udev
+  - [battery-cyberpower](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/battery-cyberpower) battery status for CyberPower UPS devices
+  - [inbox-imap-pythonpgp](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/inbox-imap-pythongpg) shows if there are unread mails in your IMAPs inbox
+  - [inbox-imap-shellnetrc](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/inbox-imap-shellnetrc) shows if there are unread mails in your IMAP inbox
+  - [inbox-imap-shellpass](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/inbox-imap-shellpass) shows if there are unread mails in your IMAP inbox
+  - [inbox-pop3-shellnetrc](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/inbox-pop3-shellnetrc) shows if there are unread mails in your POP3 inbox
+  - [info-airqualityindex](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-airqualityindex) local World Air Quality Index
+  - [info-docker](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-docker) number of docker containers in a certain state
+  - [info-dualshock4](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-dualshock4) battery level of a DualShock 4 Controller
+  - [info-ethermine](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-ethermine) current hashrate (in MH/s) for your ethermine account
+  - [info-eyestrain](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-eyestrain) eyestrain break indicator according to 20-20-20 rule
+  - ... and many more (todo)
 
 ## Invidiual projects
+
+These are project that contain only one fetch script or program, focusing on a particular piece of information.
 
 - [xtmon](https://github.com/vimist/xtmon) X window title monitoring (C)
 - [pavolmon](https://github.com/everard/pavolmon) PulseAudio volume monitoring (C)
@@ -90,6 +105,35 @@ Please open an issue or send a pull request to add to the list.
 - [brightnessctl](https://github.com/Hummer12007/brightnessctl) get and set device brightness (C)
 - [ansiweather](https://github.com/fcambus/ansiweather) Shell script for weather conditions
 
+# Buried in code
+
+These are projects that _contain_ scripts or pieces of code that can collect information, but aren't necessarily available as individual programs. It should still be possible to extract the relevant pieces of code, or at least use them as reference / inspiration.
+
+- [slstatus](https://github.com/drkhsh/slstatus) status monitor written in C; individual components in separate C files
+  - [battery.c](https://github.com/drkhsh/slstatus/blob/master/components/battery.c) battery percentage/state/time left
+  - [cpu.c](https://github.com/drkhsh/slstatus/blob/master/components/cpu.c) CPU usage / frequency
+  - [datetime.c](https://github.com/drkhsh/slstatus/blob/master/components/datetime.c) date and time
+  - [disk.c](https://github.com/drkhsh/slstatus/blob/master/components/disk.c) disk status (free storage, percentage, total storage and used storage)
+  - [entropy.c](https://github.com/drkhsh/slstatus/blob/master/components/entropy.c) available entropy
+  - [user.c](https://github.com/drkhsh/slstatus/blob/master/components/user.c) username/GID/UID
+  - [hostname.c](https://github.com/drkhsh/slstatus/blob/master/components/hostname.c) hostname
+  - [ip.c](https://github.com/drkhsh/slstatus/blob/master/components/ip.c) IP address (IPv4 and IPv6)
+  - [kernel\_release.c](https://github.com/drkhsh/slstatus/blob/master/components/kernel_release.c) Kernel version
+  - [keyboard\_indicators.c](https://github.com/drkhsh/slstatus/blob/master/components/keyboard_indicators.c) keyboard indicators
+  - [keymap.c](https://github.com/drkhsh/slstatus/blob/master/components/keymap.c) keymap
+  - [load\_avg.c](https://github.com/drkhsh/slstatus/blob/master/components/load_avg.c) load average
+  - [netspeeds.c](https://github.com/drkhsh/slstatus/blob/master/components/netspeeds.c) network speeds (RX and TX)
+  - [num\_files.c](https://github.com/drkhsh/slstatus/blob/master/components/num_files.c) number of files in a directory
+  - [ram.c](https://github.com/drkhsh/slstatus/blob/master/components/ram.c) Memory status (free memory, percentage, total memory and used memory)
+  - [run\_command.c](https://github.com/drkhsh/slstatus/blob/master/components/run_command.c) custom shell commands
+  - [swap.c](https://github.com/drkhsh/slstatus/blob/master/components/swap.c) swap status (free swap, percentage, total swap and used swap)
+  - [temperature.c](https://github.com/drkhsh/slstatus/blob/master/components/temperature.c) temperature
+  - [uptime.c](https://github.com/drkhsh/slstatus/blob/master/components/uptime.c) uptime
+  - [volume.c](https://github.com/drkhsh/slstatus/blob/master/components/volume.c) volume percentage (OSS/ALSA)
+  - [wifi.c](https://github.com/drkhsh/slstatus/blob/master/components/wifi.c) WiFi signal percentage and ESSID
+
 ## Services
+
+These aren't actual programs, but online services that can be queried from scripts, programs or the command line, for example via `curl`, to obtain information.
 
 See [awesome-console-services](https://github.com/chubin/awesome-console-services)

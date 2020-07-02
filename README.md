@@ -9,11 +9,11 @@ A list of scripts and programs that can fetch information and print it to `stdou
 - For use in notifications
 - For use in status bars
 
-Please open an issue or send a pull request to add to the list.
+Please open an issue or send a pull request to add to the list or report entries that are outdated or shouldn't be on the list in the first place.
 
 # Collections
 
-These are projects that contain a multitude of fetch scripts / programs.
+These are projects that contain a multitude of fetch scripts / programs. Note that, depending on their intended purpose, some of these might have additional files and/or functionality that goes beyond printing information to stdout. It should still be possible to use them for that, however.
 
 - [candies](https://github.com/domsson/candies) C programs made with status bars in mind; most of these have the option to be kept running
   - [cpu-proc](https://github.com/domsson/candies/tree/master/cpu-proc) CPU usage in %
@@ -106,6 +106,17 @@ These are projects that contain a multitude of fetch scripts / programs.
   - [info-ssh-sessions](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-ssh-sessions) count of current ssh sessions as well as the public IP address of the fist session
   - [info-taskspooler](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-taskspooler) number of queues/runtimes for one or more task spooler servers
   - [info-tmux-sessions](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-tmux-sessions) tmux sessions
+  - [info-todotxt](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-todotxt) shows todo.txt items due
+  - [info-trash](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-trash) number of files in you trash directory
+  - [info-usbtoserial](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-usbtoserial) shows the USB-to-Serial converters that are connected
+  - [info-wifionice](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-wifionice) information about the current ICE train of Deutsche Bahn
+  - [info-wmname](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-wmname) value of the window manager name property of the root window
+  - [info-xampp](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/info-xampp) status of XAMPP services, if running
+  - [isrunning-claudius](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/isrunning-claudius) report the state of claudius, the alternative filepicker for Discord
+  - [isrunning-compton](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/isrunning-compton) shows if compton is running
+  - [isrunning-dropbox](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/isrunning-dropbox) shows if the dropbox client is running
+  - [isrunning-offlineimap](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/isrunning-offlineimap) shows if offlineimap is running
+  - [isrunning-service](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/isrunning-service) shows if a systemd service is running
   - ... and many more (todo)
 
 ## Invidiual projects

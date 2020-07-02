@@ -117,6 +117,17 @@ These are projects that contain a multitude of fetch scripts / programs. Note th
   - [isrunning-dropbox](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/isrunning-dropbox) shows if the dropbox client is running
   - [isrunning-offlineimap](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/isrunning-offlineimap) shows if offlineimap is running
   - [isrunning-service](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/isrunning-service) shows if a systemd service is running
+  - [network-ipinfo.io](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/network-ipinfo.io) public IP address and country of origin via ipinfo.io
+  - [network-localip](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/network-localip) local IP of the current connection
+  - [network-networkmanager](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/network-networkmanager) status of NetworkManager
+  - [network-publicip](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/network-publicip) public IP of the current connection
+  - [network-traffic](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/network-traffic) current network traffic
+  - [news-archlinux](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/news-archlinux) Arch Linux RSS news
+  - [notification-chess](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/notification-chess) indicates whether you need to move
+  - [notification-github](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/notification-github) GitHub notifications
+  - [notification-mattermost](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/notification-mattermost) unread Mattermost messages and mentions
+  - [notification-reddit](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/notification-reddit) shows if there are unread mails in your reddit inbox
+  - [notification-spacex](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/notification-spacex) shows when the next launch is planned
   - ... and many more (todo)
 
 ## Invidiual projects

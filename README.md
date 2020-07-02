@@ -100,12 +100,12 @@ These are projects that contain a multitude of fetch scripts / programs.
 
 These are projects that contain only one fetch script or program, focusing on a particular piece of information.
 
-- [xtmon](https://github.com/vimist/xtmon) X window title monitoring (C)
+- [ansiweather](https://github.com/fcambus/ansiweather) Shell script for weather conditions
+- [brightnessctl](https://github.com/Hummer12007/brightnessctl) get and set device brightness (C)
+- [light](https://github.com/haikarainen/light) get and set backlights (C)
 - [pavolmon](https://github.com/everard/pavolmon) PulseAudio volume monitoring (C)
 - [xkblayout-state](https://github.com/nonpop/xkblayout-state) XKB keyboard layout (C++)
-- [light](https://github.com/haikarainen/light) get and set backlights (C)
-- [brightnessctl](https://github.com/Hummer12007/brightnessctl) get and set device brightness (C)
-- [ansiweather](https://github.com/fcambus/ansiweather) Shell script for weather conditions
+- [xtmon](https://github.com/vimist/xtmon) X window title monitoring (C)
 
 # Buried in code
 

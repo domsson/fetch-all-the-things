@@ -1,5 +1,7 @@
 # fetch-all-the-things 
 
+![fetch all the things](fetch-all-the-things.png)
+
 A list of scripts and programs that can fetch information and print it to `stdout`. Possible use cases for such utilities:
 
 - Check information on the CLI

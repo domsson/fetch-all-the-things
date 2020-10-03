@@ -147,6 +147,7 @@ These are projects that contain only one fetch script or program, focusing on a 
 - [brightnessctl](https://github.com/Hummer12007/brightnessctl) get and set device brightness (C)
 - [light](https://github.com/haikarainen/light) get and set backlights (C)
 - [pavolmon](https://github.com/everard/pavolmon) PulseAudio volume monitoring (C)
+- [playerctl](https://github.com/altdesktop/playerctl) control media players and query current track info (C)
 - [xkblayout-state](https://github.com/nonpop/xkblayout-state) XKB keyboard layout (C++)
 - [xtmon](https://github.com/vimist/xtmon) X window title monitoring (C)
 

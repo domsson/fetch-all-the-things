@@ -25,7 +25,7 @@ These are projects that contain a multitude of fetch scripts / programs. Note th
   - [temp-sensors](https://github.com/domsson/candies/tree/master/temp-sensors) system temperature via libsensors
   - [twitch-chat](https://github.com/domsson/candies/tree/master/twitch-chat) Twitch chat messages (filtered)
   - [volume-pulse](https://github.com/domsson/candies/tree/master/volume-pulse) volume via libpulse
-  - [wmname-xcb](https://github.com/domsson/candies/tree/master/wmname-xcb) title of the focused window via libxcb
+  - [wmname-xcb](https://github.com/domsson/candies/tree/master/wmname-xcb) title of the focused window and window manager name via libxcb
 - [fetchutils](https://github.com/lptstr/fetchutils) small Shell scripts to retrieve system information; made with fetch scripts in mind
   - [disk.sh](https://github.com/lptstr/fetchutils/blob/master/src/disk.sh) disk usage
   - [editor.sh](https://github.com/lptstr/fetchutils/blob/master/src/editor.sh) get editor name

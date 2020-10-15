@@ -145,12 +145,17 @@ These are projects that contain a multitude of fetch scripts / programs. Note th
 These are projects that contain only one fetch script or program, focusing on a particular piece of information.
 
 - [ansiweather](https://github.com/fcambus/ansiweather) Shell script for weather conditions
+- [backlight](https://github.com/baskerville/backlight) get and set backlight brightness (C)
 - [brightnessctl](https://github.com/Hummer12007/brightnessctl) get and set device brightness (C)
+- [ewmhstatus](https://github.com/baskerville/ewmhstatus) print current desktop name and window title (C)
 - [light](https://github.com/haikarainen/light) get and set backlights (C)
 - [pavolmon](https://github.com/everard/pavolmon) PulseAudio volume monitoring (C)
 - [playerctl](https://github.com/altdesktop/playerctl) control media players and query current track info (C)
 - [xkblayout-state](https://github.com/nonpop/xkblayout-state) XKB keyboard layout (C++)
+- [sres](https://github.com/baskerville/sres) print the current screen resolution (C)
+- [xtitle](https://github.com/baskerville/xtitle) print (active) X window ID or title (C)
 - [xtmon](https://github.com/vimist/xtmon) X window title monitoring (C)
+- [xwinfo](https://github.com/baskerville/xwinfo) print X window information (name, class, ID, size, etc) (C)
 
 # Buried in code
 
